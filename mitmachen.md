@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mitmachen
+---
+
 # Wen brauchen wir?
 Genau Dich! Jedes soziale Engagement ist willkommen! 
 Sei es als Lehrkraft: Die Kurse finden täglich, von Montag bis Donnerstag von 18-20 Uhr in der LMU bzw. online statt. Ein Zweier-Lehrteam erhält dabei einen Wochentag und wird umfassend betreut.
