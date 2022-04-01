@@ -1,7 +1,7 @@
 ---
 layout: default
 theme: jekyll-theme-cayman
-title: Mitmachen
+description: Mitmachen
 ---
 
 # Wen brauchen wir?
