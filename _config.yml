@@ -1,6 +1,3 @@
-# Site settings
-title: "Students for Ukraine"
-description: "Sprachkurse"
-
-# Build settings
+title: Students for Ukraine
+description: Sprachkurse
 theme: jekyll-theme-cayman
