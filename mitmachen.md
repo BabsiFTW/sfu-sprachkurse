@@ -1,8 +1,8 @@
 ---
 layout: default
 theme: jekyll-theme-cayman
-description: Mitmachen
 ---
+
 # Mitmachen
 ## Wen brauchen wir?
 Genau Dich! Jedes soziale Engagement ist willkommen! 
