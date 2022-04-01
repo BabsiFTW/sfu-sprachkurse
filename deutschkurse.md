@@ -10,7 +10,7 @@ Wenn du dein Studium oder deine akademische Laufbahn aufgrund des Kriegs in der 
 
 Bitte registriere dich dafür einfach hier. Wir werden uns so schnell wie möglich bei dir melden. Wir freuen uns auf dich! 
 
-# курси німецької мови
+# Kурси німецької мови
 Починаючи, приблизно, 9 травня 2022 року, ми організовуємо курси німецької мови в Мюнхенському університеті Людвіга-Максиміліана.
 Якщо ви були змушені перервати освітній процес чи академічну кар’єру, чи взагалі не змогли розпочати навчання через війну в Україні, ми прагнемо допомогти вам безкоштовними курсами німецької мови.
 
