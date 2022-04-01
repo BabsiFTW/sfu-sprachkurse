@@ -1,6 +1,7 @@
 ---
-title: Deutschkurse
+layout: default
 theme: jekyll-theme-cayman
+title: Deutschkurse
 ---
 
 Wir bieten voraussichtlich ab dem 09.05.2022 Deutschkurse an der Ludwig-Maximilians-Universität München an.
