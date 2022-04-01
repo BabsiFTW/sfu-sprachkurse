@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Students for Ukraine
 description: Über uns
 --- 
