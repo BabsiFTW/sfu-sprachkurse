@@ -8,7 +8,7 @@ Wir bieten voraussichtlich ab dem 09.05.2022 Deutschkurse an der Ludwig-Maximili
 
 Wenn du dein Studium oder deine akademische Laufbahn aufgrund des Kriegs in der Ukraine unterbrechen oder gar nicht aufnehmen konntest, möchten wir dir mit kostenlosen Deutschkursen helfen.
 
-Bitte registriere dich dafür einfach hier. Wir werden uns so schnell wie möglich bei dir melden. Wir freuen uns auf dich! 
+Bitte registriere dich dafür [einfach hier](https://forms.gle/Mc6hSuYgXZVaaugH6). Wir werden uns so schnell wie möglich bei dir melden. Wir freuen uns auf dich! 
 
 # Kурси німецької мови
 Починаючи, приблизно, 9 травня 2022 року, ми організовуємо курси німецької мови в Мюнхенському університеті Людвіга-Максиміліана.
