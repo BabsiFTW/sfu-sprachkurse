@@ -17,3 +17,5 @@ Engagement bei S4r wird als Praktikum gemäß der Studienordnung des DaF-Bachelo
 
 ## Was heißt das konkret?
 Konkret möchten wir ab dem 09.05.2022 Sprachkurse für junge Geflüchtete aus der Ukraine anbieten. 
+
+Neugierig? Dann melde dich [einfach hier](https://forms.gle/bstQQDBdTWc7hdgVA) oder schreib uns … Mailadresse
